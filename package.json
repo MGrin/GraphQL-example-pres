@@ -1,0 +1,24 @@
+{
+  "name": "graphql_example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "MGrin",
+  "license": "ISC",
+  "devDependencies": {
+    "async": "^2.0.1",
+    "fast-csv": "^2.1.0",
+    "mongodb": "^2.2.9",
+    "mongodb-datasets": "^0.1.5"
+  },
+  "dependencies": {
+    "express": "^4.14.0",
+    "express-graphql": "^0.5.4",
+    "graphql": "^0.7.0",
+    "jsparql": "0.0.2",
+    "mongojs": "^2.4.0"
+  }
+}

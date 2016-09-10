@@ -1,0 +1,5 @@
+{
+  "name" : "{{faker.Name.findName()}}",
+  "email" : "{{faker.Internet.email()}}",
+  "picture" : "{{faker.Image.avatar()}}"
+}
